@@ -7,7 +7,7 @@
     "distDir": "../dist"
   },
   "package": {
-    "productName": "codiLink",
+    "productName": "Broslunas Code",
     "version": "0.1.0"
   },
   "tauri": {
@@ -29,8 +29,8 @@
         "icons/icon.icns",
         "icons/icon.ico"
       ],
-      "identifier": "com.midu.dev",
-      "longDescription": "codiLink is a Playground Code Editor for HTML, CSS and JavaScript",
+      "identifier": "com.broslunas",
+      "longDescription": "Broslunas Code is a Playground Code Editor for HTML, CSS and JavaScript",
       "macOS": {
         "entitlements": null,
         "exceptionDomain": "",
@@ -60,7 +60,7 @@
         "resizable": true,
         "minHeight": 700,
         "minWidth": 800,
-        "title": "CodiLink - Playground Code Editor for Developers",
+        "title": "Broslunas Code - Playground Code Editor for Developers",
         "width": 800
       }
     ]

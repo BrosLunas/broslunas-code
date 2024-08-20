@@ -13,7 +13,7 @@ export const DEFAULT_INITIAL_SETTINGS = {
   theme: 'vs-dark',
   sidebar: 'default',
   wordWrap: 'on',
-  zipFileName: 'codi.link',
+  zipFileName: 'broslunas-code-export',
   zipInSingleFile: false,
   saveLocalstorage: true,
   layout: {

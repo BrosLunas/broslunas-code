@@ -3,7 +3,7 @@ import { createHtml } from './utils/createHtml.js'
 const getZip = () =>
   import('client-zip').then(({ downloadZip }) => downloadZip)
 
-const DEFAULT_ZIP_FILE_NAME = 'codi.link'
+const DEFAULT_ZIP_FILE_NAME = 'broslunas-code-export'
 
 export async function downloadUserCode ({
   htmlContent,
